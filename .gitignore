@@ -33,6 +33,9 @@
 
 # Project folders
 /.vs_proj
+/.vs
+/out
+/.github
 /build
 
 # Debug symbols
