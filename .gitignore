@@ -35,8 +35,9 @@
 /.vs_proj
 /.vs
 /out
-/.github
 /build
 
 # Debug symbols
 *.pdb
+
+CMakeSettings.json
