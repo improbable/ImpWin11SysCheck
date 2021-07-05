@@ -2,6 +2,9 @@
 [![Download](https://img.shields.io/github/v/release/mq1n/Win11SysCheck)](https://github.com/mq1n/Win11SysCheck/releases/latest/)
 [![Ko-fi](https://img.shields.io/badge/Support%20me%20on-Ko--fi-FF5E5B.svg?logo=ko-fi)](https://ko-fi.com/mq1n4)
 
+
+MODIFIED from mq1n/Win11SysCheck to allow compiling of Errors and outputting to Webhook
+
 # Win11SysCheck
 Windows 11 compability check software with user friendly output
 
