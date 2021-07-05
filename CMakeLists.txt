@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.2)
-project(ImpWin11SysCheck CXX)
+project(Win11SysCheck CXX)
 
 set(CMAKE_RUNTIME_OUTPUT_DIRECTORY ../Bin/)
 set(CMAKE_RUNTIME_OUTPUT_DIRECTORY_DEBUG ../Bin/)
