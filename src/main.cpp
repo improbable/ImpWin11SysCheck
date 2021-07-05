@@ -41,7 +41,7 @@ HRESULT GetIntValue(IDxDiagContainer* pContainerObject, wchar_t* lpwszName, int*
 	return S_OK;
 }
 
-const std::string WebhookURL = "https://hooks.slack.com/services/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";
+const std::string WebhookURL = "";
 
 // Source: https://stackoverflow.com/a/579448
 bool GetMonitorSizeFromEDID(const HKEY hEDIDRegKey, short& WidthMm, short& HeightMm)
