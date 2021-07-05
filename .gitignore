@@ -38,3 +38,4 @@
 
 # Debug symbols
 *.pdb
+CMakeSettings.json
