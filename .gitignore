@@ -34,7 +34,7 @@
 # Project folders
 /.vs_proj
 /.vs
-/out/
+/out
 
 # Debug symbols
 *.pdb
