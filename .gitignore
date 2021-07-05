@@ -33,7 +33,9 @@
 
 # Project folders
 /.vs_proj
-/build
+/.vs
+/out
 
 # Debug symbols
 *.pdb
+CMakeSettings.json

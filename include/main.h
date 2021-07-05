@@ -10,6 +10,8 @@
 #include <array>
 #include <iostream>
 #include <fstream>
+#include <Lmcons.h>
+#include <cpr/cpr.h>
 
 #define STATUS_SUCCESS ((NTSTATUS)0x00000000L)
 #define SystemBootEnvironmentInformation 90
